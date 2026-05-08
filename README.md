@@ -4,7 +4,7 @@
 
 ### Архитектура
 
-![shema](C:\Users\Leonid\PycharmProjects\moiami_docs\shema.png)
+![shema](shema.png)
 
 
 
