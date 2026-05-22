@@ -2,42 +2,8 @@
 
 ## Что было сделано:
 
-1.
+1. Comments Service: CRUD на комменты, документация
 
-2.
+2. Resource Service: CRUD на Subscriptions, Exceptions handling, saving images to s3
 
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
+3. Check Service: LLM prompting service, check service, бэкграунд джоба формирования новостей, документация
