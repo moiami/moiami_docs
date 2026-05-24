@@ -2,7 +2,7 @@
 
 ## Что было сделано:
 
-1. comment_service (Flask): API, сервисный слой, тесты
+1. comment_service (Flask): CRUD на лайки, сервисный слой, тесты
 
 2. check_service (FastAPI): API, сервисный слой (кроме llm и check), тесты
 
