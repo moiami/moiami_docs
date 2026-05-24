@@ -2,10 +2,10 @@
 
 ## Что было сделано:
 
-1. comment_service (Flask): CRUD на лайки, сервисный слой, тесты
+1. Comment Service (Flask): CRUD на лайки, сервисный слой, тесты, настройка flassger, README
 
-2. check_service (FastAPI): API, сервисный слой (кроме llm и check), тесты
+2. Check Service (FastAPI): API, сервисный слой (кроме llm и check), тесты
 
-3. comment_service: настройка flasgger, README
-
-4. Тесты для SSO
+3. SSO: тесты
+   
+4. Resource Service (Django): API, модели для users
